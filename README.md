@@ -6,4 +6,4 @@
 
 ## Add From using Modals
 
-![alt text](https://github.com/mahabubul1/Laravel-react-crud/blob/master/add_form.jpg?raw=true)
+![alt text](https://github.com/mahabubul1/Laravel-react-crud/blob/master/add-form.jpg?raw=true)
