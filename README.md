@@ -16,3 +16,14 @@
 
 <p> Route::resource('customer', 'CustomerController'); </p>
 
+
+###  Web.php
+
+<p>
+    Route::get('/{path?}', [
+    'uses' => 'HomeController@index',
+    'as' => 'react',
+    'where' => ['path' => '.*']
+  ])->name('home');
+
+</p>
